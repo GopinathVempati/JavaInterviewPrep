@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: .idea/uiDesigner.xml
+  checksum: 18be3885953534e90388d323127b1e8a412d666d9fe4c4b2f315c589933b5f67
+- filename: src/comparator/MapDemo.java
+  checksum: 78587652ae22415710b37a36a9616d1c891bcad24ff67b2e3ea368e6db2b36e5
+- filename: src/maps/HashMapMain.java
+  checksum: e9df8d3560e3c0c2c6ae42f7e80bb6ea29bacb9d2cc968fe4dfc629e8314fbed
+version: "1.0"
